@@ -1,0 +1,10 @@
+Pillow
+PyMuPDF
+numpy
+pandas
+scikit-learn
+tensorflow
+geneticalgorithm
+matplotlib
+xgboost
+seaborn
