@@ -1,0 +1,13 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+         PNG       0.00      0.00      0.00         0
+         GIF       0.00      0.00      0.00         0
+         JPG       1.00      0.99      1.00       200
+        TIFF       0.00      0.00      0.00         0
+
+    accuracy                           0.99       200
+   macro avg       0.25      0.25      0.25       200
+weighted avg       1.00      0.99      1.00       200
+
+Accuracy: 99.50%

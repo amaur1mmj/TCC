@@ -1,10 +1,13 @@
 import pandas as pd
 
 # Carregar o conjunto de dados
-df = pd.read_csv('./data/reduced_dataset.csv')
+#df1 = pd.read_csv('./data/reduced_dataset.csv')
+df = pd.read_csv('reduced_dataset.csv')
 
 # Mostrar os primeiros 5 registros
 print(df.head(5))
+#print('segundo: ', df1.head(5))
+
 
 # Contar a distribuição dos valores na coluna 'Filename'
 class_counts = df['Filename'].value_counts()
